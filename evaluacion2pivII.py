@@ -47,6 +47,7 @@ class Tienda():
 
 Tienda.RegistrodeProductos()
 
+
 #     def AgregarProducto(self):
 #         for codigo in self.art():
 #             if codigo == codigo:
